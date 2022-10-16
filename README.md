@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kulmaganbetov
-- 👀 I’m interested in Python, C, Java
-- 🌱 I’m currently learning in KBTU
-- 📫 How to reach me Telegram [@kulmaganbetov]
+- 👀 I’m interested in PHP
+- 🌱 I’m currently studying in KBTU
+- 📫 How to reach me Telegram [@l1nkinpark]
