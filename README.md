@@ -22,9 +22,9 @@ I'm a Python backend developer with a knack for building scalable and efficient 
 - Built custom solutions for clients, from e-commerce sites to automated data collection tools.
 
 ## Projects
-- **[WhatsApp Assistant Bot] A WhatsApp bot that schedules Zoom calls and integrates with Google Calendar. 
-- **[LinkedIn Job Parser] A Python scraper that parses job postings from LinkedIn. 
-- **[CIFAR-10 Classifier] A machine learning model for image classification using the CIFAR-10 dataset.
+- [WhatsApp Assistant Bot] A WhatsApp bot that schedules Zoom calls and integrates with Google Calendar. 
+- [LinkedIn Job Parser] A Python scraper that parses job postings from LinkedIn. 
+- [CIFAR-10 Classifier] A machine learning model for image classification using the CIFAR-10 dataset.
 
 ## Education
 - **Nazarbayev Intellectual School** - High School Diploma
