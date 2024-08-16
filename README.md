@@ -1,7 +1,7 @@
 # Hey, I'm Rauan! 👋
 
 ## Stack
-[![My Skills]([https://skillicons.dev/icons?i=go,py,react,nextjs,docker)](https://skillicons.dev](https://skillicons.dev/icons?i=py,django,github,docker,linkedin,postman,postgres,pycharm,rabbitmq,redis,selenium,tensowflow))
+[![My Skills]([https://skillicons.dev/icons?i=py,django,github,docker,linkedin,postman,postgres,pycharm,rabbitmq,redis,selenium,tensowflow)](https://skillicons.dev])
 
 ## About Me
 I'm a Python backend developer with a knack for building scalable and efficient systems. With a solid background in backend development and a keen interest in emerging technologies, I strive to deliver high-quality software solutions.
