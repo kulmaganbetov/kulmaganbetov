@@ -1,6 +1,6 @@
 # Hey, I'm Rauan! 👋
 
-## Stack
+## I do
 [![My Skills](https://skillicons.dev/icons?i=py,django,github,docker,linkedin,postman,postgres,pycharm,rabbitmq,redis,selenium,tensowflow)](https://skillicons.dev)
 
 ## About Me
