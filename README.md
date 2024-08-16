@@ -9,7 +9,7 @@ I'm a Python backend developer with a knack for building scalable and efficient 
 ## Skills
 - **Programming Languages**: Python, PHP
 - **Frameworks**: Django, Flask, FastAPI
-- **Tools**: Docker, Git, Jenkins, Postman, PyCharm, Termius
+- **Tools**: Docker, Git, Postman, PyCharm, Termius
 - **Databases**: PostgreSQL, MySQL
 - **APIs**: Google API, WhatsApp API, OpenAI API, Telegram API
 - **Other**: Data Analysis, Web Scraping, Machine Learning, Backend
@@ -20,14 +20,20 @@ I'm a Python backend developer with a knack for building scalable and efficient 
 - Optimized database queries and improved application performance.
 - Integrated third-party APIs and services to enhance functionality.
 
-### Freelance Developer (2019 - 2023)
-- Worked on diverse projects including API development, data parsing, and web scraping.
+### Freelance, PHP Developer (2019 - 2023)
+- Worked on diverse projects including PHP development.
 - Built custom solutions for clients, from e-commerce sites to automated data collection tools.
 
+## E-commerce projects
+- [irocket.kz] iRocket offers tools designed to help online stores on Kaspi.kz increase sales and maintain top positions.
+- [moodmart.kz] MoodMart is an online store specializing in beauty and skincare products.
+- [WhatsApp ChatGPT Assistant Bot] A WhatsApp bot that integrates with Google Calendar, schedules Meet calls based on OpenAI (ChatGPT) API.
+
+
 ## Projects
-- [WhatsApp Assistant Bot] A WhatsApp bot that schedules Zoom calls and integrates with Google Calendar. 
 - [LinkedIn Job Parser] A Python scraper that parses job postings from LinkedIn. 
 - [CIFAR-10 Classifier] A machine learning model for image classification using the CIFAR-10 dataset.
+
 
 ## Education
 - **Nazarbayev Intellectual School** - High School Diploma
