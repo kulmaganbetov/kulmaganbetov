@@ -24,7 +24,7 @@ I'm a Python backend developer with a knack for building scalable and efficient 
 - Worked on diverse projects including PHP development.
 - Built custom solutions for clients, from e-commerce sites to automated data collection tools.
 
-## E-commerce projects
+## Business projects
 - [irocket.kz] iRocket offers tools designed to help online stores on Kaspi.kz increase sales and maintain top positions.
 - [moodmart.kz] MoodMart is an online store specializing in beauty and skincare products.
 - [WhatsApp ChatGPT Assistant Bot] A WhatsApp bot that integrates with Google Calendar, schedules Meet calls based on OpenAI (ChatGPT) API.
