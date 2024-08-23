@@ -1,6 +1,6 @@
 # Hey, I'm Rauan!
 
-## I Doo
+## I Dooa
 [![My Skills](https://skillicons.dev/icons?i=py,django,github,docker,linkedin,postman,postgres,pycharm,rabbitmq,redis,selenium,tensowflow)](https://skillicons.dev)
 
 ## About Me
