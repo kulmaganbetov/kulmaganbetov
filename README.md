@@ -1,4 +1,4 @@
-# Hey, I'm Rauan!))
+# Hey, I'm Rauan!)))
 
 ## I Do
 [![My Skills](https://skillicons.dev/icons?i=py,django,github,docker,linkedin,postman,postgres,pycharm,rabbitmq,redis,selenium,tensowflow)](https://skillicons.dev)
